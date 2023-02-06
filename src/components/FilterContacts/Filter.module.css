@@ -1,0 +1,8 @@
+.input {
+    margin: 10px;
+}
+
+input,
+input:hover {
+    outline: none;
+}
